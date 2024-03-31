@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript , React , Scikitlearn and Matplotlib**
 
-- 💬 Ask me about **Html, CSS , Javascript, Python, C , Cpp**
+- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++**
 
 - 📫 How to reach me **sushindh.anandan@gmail.com**
 
