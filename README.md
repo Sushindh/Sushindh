@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **PECCON and FYF**
 
-- 🌱 I’m currently learning **Javascript , Node , Scikitlearn and Matplotlib**
+- 🌱 I’m currently learning **Javascript , Node.js , Scikitlearn and Matplotlib**
 
 - 💬 Ask me about **Html, CSS , Javascript, Python, C , C++**
 
