@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushindh&label=Profile%20views&color=0e75b6&style=flat" alt="sushindh" /> </p>
 
-- 🔭 I’m currently working on **PECCON and FYF**
+- 🔭 I’m currently working on **PECCON(peccon25.com) and FYF**
 
 - 🌱 I’m currently learning **Javascript , Node.js , Scikitlearn and Matplotlib**
 
