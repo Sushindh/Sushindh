@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushindh&label=Profile%20views&color=0e75b6&style=flat" alt="sushindh" /> </p>
 
-- 🔭 I’m currently working on **PECCON(peccon25.com) and FYF**
+- 🔭 I’m currently working on **PECCON(peccon25.com)**
 
-- 🌱 I’m currently learning **Javascript, React.js, Node.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++**
+- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Javascript, React.js, Tailwind.css**
 
 - 📫 How to reach me **sushindh.anandan@gmail.com**
 
