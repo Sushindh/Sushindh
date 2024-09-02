@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Javascript, React.js, Tailwind.css**
+- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Java, React.js, Tailwind.css**
 
 - 📫 How to reach me **sushindh.anandan@gmail.com**
 
