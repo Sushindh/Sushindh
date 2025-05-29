@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushindh&label=Profile%20views&color=0e75b6&style=flat" alt="sushindh" /> </p>
 
-- 🔭 I’m currently working on **CPMS(Capstone Student Management System**
+- 🔭 I’m currently working on **CPMS(Capstone Student Management System)**
 
 - 🌱 I’m currently learning **DevOps and ML**
 
