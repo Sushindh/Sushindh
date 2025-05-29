@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CPMS(Capstone Student Management System)**
 
-- 🌱 I’m currently learning **DevOps and ML**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Java, React.js, Tailwind.css, Figma**
 
