@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **CPMS(Capstone Student Management System)**
 
-- 🌱 I’m currently exploring **ML & Cloud Computing**
+- 🌱 I’m currently exploring **ML, Cloud Computing & Backend Development**
 
-- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Java, React.js, Tailwind.css, Observability & Monitoring, Figma**
+- 💬 Ask me about **Html, CSS , Javascript, Python, C , C++, Java, React.js, Tailwind.css, FastAPI, MongoDB,Observability & Monitoring, Figma**
 
 - 📫 How to reach me **sushindh.anandan@gmail.com**
 
